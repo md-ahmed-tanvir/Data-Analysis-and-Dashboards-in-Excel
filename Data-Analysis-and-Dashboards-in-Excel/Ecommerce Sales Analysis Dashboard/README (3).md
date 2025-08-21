@@ -1,6 +1,6 @@
 # Dashboard Preview Image for the above project.
 
-<img width="1433" alt="DashBoard Image" src="https://raw.githubusercontent.com/Gokul-Raja84/Data-Analysis-in-Excel/main/1.%20Ecommerce%20Sales%20Analysis%20Dashboard/DashBoard%20Image.png">
+<img width="1433" alt="DashBoard Image" src="https://github.com/md-ahmed-tanvir/Data-Analysis-and-Dashboards-in-Excel/blob/main/Data-Analysis-and-Dashboards-in-Excel/Ecommerce%20Sales%20Analysis%20Dashboard/DashBoard%20Image.png">
 
 # **Ecommerce Sales Analysis Dashboard**
 
