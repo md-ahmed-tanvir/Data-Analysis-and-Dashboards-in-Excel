@@ -1,7 +1,7 @@
 # Dashboard Preview Image for the above project.
 
 
-<img width="1199" alt="Dashboard Image" src="https://raw.githubusercontent.com/Gokul-Raja84/Data-Analysis-in-Excel/main/4.%20MacDonalds%20Sales%202022%20Dashboard/Dashboard%20Image.png">
+<img width="1199" alt="Dashboard Image" src="https://github.com/md-ahmed-tanvir/Data-Analysis-and-Dashboards-in-Excel/blob/main/Data-Analysis-and-Dashboards-in-Excel/MacDonalds%20Sales%202022%20Dashboard/Dashboard%20Image.png">
 
 # **MacDonald's Sales 2022 Dashboard**
 
