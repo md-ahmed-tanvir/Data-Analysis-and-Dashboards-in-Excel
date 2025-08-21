@@ -1,7 +1,7 @@
 # Dashboard Preview Image for the above Project
 
 
-<img width="1381" alt="Dashboard Image" src="https://raw.githubusercontent.com/Gokul-Raja84/Data-Analysis-in-Excel/main/3.%20Adidas%20Sales%20Analysis%20Dashborad/Dashboard%20Image.png">
+<img width="1381" alt="Dashboard Image" src="https://github.com/md-ahmed-tanvir/Data-Analysis-and-Dashboards-in-Excel/blob/main/Data-Analysis-and-Dashboards-in-Excel/Adidas%20Sales%20Analysis%20Dashborad/Dashboard%20Image.png">
 
 # **Adidas Sales Analysis Dashboard**
 
